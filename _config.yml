@@ -21,7 +21,7 @@
 title: Spicynois Reviews
 email: officialdavnmusic.com
 description: >- # this means to ignore newlines until "baseurl:" Hola, bienvenidos a Spicynois Reviews, soy David Mendoza, acompañame a reseñar diferentes álbums de la infustria músical.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/myblog-Spicynois"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
