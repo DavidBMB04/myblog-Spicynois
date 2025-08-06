@@ -23,8 +23,7 @@ email: officialdavnmusic.com
 description: >- # this means to ignore newlines until "baseurl:" Hola, bienvenidos a Spicynois Reviews, soy David Mendoza, acompañame a reseñar diferentes álbums de la infustria músical.
 baseurl: "/myblog-Spicynois"
 url: "https://davidbmb04.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: DavidBMB04
 
 # Build settings
 theme: jekyll-theme-minimal
