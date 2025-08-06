@@ -4,3 +4,5 @@
 
 layout: home
 ---
+# ¡Bienvenido a mi blog!
+Aquí encontrarás todas las reseñas de álbumes que he escrito.
