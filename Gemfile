@@ -4,7 +4,7 @@ gem "jekyll", "~> 4.3.2"
 gem "jekyll-feed", "~> 0.17.0"
 
 # This is the line you need to add or modify
-gem "jekyll-theme-minimal"
+gem "jekyll-theme-cayman"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
